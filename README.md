@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Francoise02
 - 👀 I’m interested in Computer science and all its babies :)
-- 🌱 I’m currently learning Python programming  
-- 💞️ I’m looking to collaborate on any python projects
+- 🌱 I’m currently working on some programming projects  
+- 💞️ I’m looking to collaborate on any python, java or web dev projects
 - 📫 You can reach me via email: f.mukantwari@alustudent.com 
 
 <!---
