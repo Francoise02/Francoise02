@@ -13,7 +13,7 @@
 - :mailbox:How to reach me: [francoisentwari@gmail.com](mailto:francoisentwari@gmail.com)
 
 
-## Connect with me:
+## ✨ Connect with me:
 <a href="https://linkedin.com/in/mukantwari-francoise-6882921b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mukantwari-francoise" height="30" width="40" /></a><a href="https://github.com/Francoise02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Francoise" height="30" width="40" /></a>
 
 
