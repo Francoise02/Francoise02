@@ -10,7 +10,7 @@
 
 - :zap: I'm open to collaboration on sofware engineering projects.
 
-- :mailbox: How to reach me: [francoisentwari@gmail.com](mailto:francoisentwari@gmail.com)
+- :mailbox: How to reach me: [Email](mailto:mukantwarifrancoise2@gmail.com)
 
 
 ## ✨ Connect with me:
